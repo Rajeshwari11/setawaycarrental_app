@@ -15,6 +15,8 @@ public class Display_Layout extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.display_layout);
 
+        //gftujkvcxxtcyvubnmklnbhuvcyrxezwrextcyvh
+
     }
 
 
